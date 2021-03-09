@@ -1,0 +1,7 @@
+C:\Users\tlvla\source\repos\HW_Task2\HW_Task1\bin\Debug\HW_Task1.exe.config
+C:\Users\tlvla\source\repos\HW_Task2\HW_Task1\bin\Debug\HW_Task1.exe
+C:\Users\tlvla\source\repos\HW_Task2\HW_Task1\bin\Debug\HW_Task1.pdb
+C:\Users\tlvla\source\repos\HW_Task2\HW_Task1\obj\Debug\HW_Task1.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\HW_Task2\HW_Task1\obj\Debug\HW_Task1.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\source\repos\HW_Task2\HW_Task1\obj\Debug\HW_Task1.exe
+C:\Users\tlvla\source\repos\HW_Task2\HW_Task1\obj\Debug\HW_Task1.pdb
